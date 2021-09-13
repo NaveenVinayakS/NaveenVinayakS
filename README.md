@@ -2,10 +2,10 @@
 <h1 align="center">I'm Naveen</h1>
 
 ### I have technical experience and interest in -
+* Machine Learning
 * Computer vision 
 * Natural Language Processing 
-* Embedded systems 
-* Robotics
+
 
 
 <h3 align="left">Languages and Tools:</h3>
