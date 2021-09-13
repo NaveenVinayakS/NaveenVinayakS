@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenvinayaks" alt="naveenvinayaks" /></a> </p>
 
+### I have technical experience and interest in -
+* Machine Learning
+* Computer vision 
+* Natural Language Processing 
+
+
 - 📝 I regularly write articles on [https://naveenvinayak.medium.com/](https://naveenvinayak.medium.com/)
 
 - 💬 Ask me about **Ask me about Stats, Machine Learning, Deep Learning**
