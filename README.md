@@ -11,7 +11,7 @@
 * Natural Language Processing 
 
 - 👨‍💻 My Portfolio [https://flowcv.me/naveen-vinayak-s](https://flowcv.me/naveen-vinayak-s)
-- 
+
 - 📝 I regularly write articles on [https://naveenvinayak.medium.com/](https://naveenvinayak.medium.com/)
 
 - 💬 Ask me about **Ask me about Stats, Machine Learning, Deep Learning**
