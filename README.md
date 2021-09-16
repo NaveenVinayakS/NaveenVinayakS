@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaveenVinayakS&label=Profile%20views&color=0e75b6&style=flat" alt="c17hawke" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenvinayaks" alt="naveenvinayaks" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### I have technical experience and interest in -
 * Machine Learning
