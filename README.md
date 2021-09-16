@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenvinayaks&show_icons=true&locale=en" alt="naveenvinayaks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenvinayaks&" alt="naveenvinayaks" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/NaveenVinayakS"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NaveenVinayakS" /></a></p>
