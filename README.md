@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://naveenvinayak.medium.com/](https://naveenvinayak.medium.com/)
 
-- 💬 Ask me about **Ask me about Stats, Machine Learning, Deep Learning**
+- 💬 Ask me about **Ask me about Stats, Machine Learning, Deep Learning**.
 
 - 📫 How to reach me **naveenvinayak.2195@gmail.com**
 
