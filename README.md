@@ -7,9 +7,9 @@
 
 
 ### I have technical experience and interest in -
-* Machine Learning
-* Computer vision 
-* Natural Language Processing 
+* Machine Learning.
+* Computer vision .
+* Natural Language Processing .
 
 - 👨‍💻 My Portfolio [https://flowcv.me/naveen-vinayak-s](https://flowcv.me/naveen-vinayak-s)
 
