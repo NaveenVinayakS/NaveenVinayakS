@@ -13,6 +13,8 @@
 
 - 👨‍💻 My Portfolio [https://flowcv.me/naveen-vinayak-s](https://flowcv.me/naveen-vinayak-s)
 
+- 👨‍💻 My CV [https://naveenvinayaks.github.io/naveenvinayak.github.io/](https://naveenvinayaks.github.io/naveenvinayak.github.io/)
+
 - 📝 I regularly write articles on [https://naveenvinayak.medium.com/](https://naveenvinayak.medium.com/)
 
 - 💬 Ask me about **Ask me about Stats, Machine Learning, Deep Learning**.
