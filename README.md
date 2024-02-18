@@ -12,7 +12,7 @@
 * Natural Language Processing .
 * LLMs
 
-- 👨‍💻 My Portfolio [https://flowcv.me/naveen-vinayak-s](https://flowcv.me/naveen-vinayak-s)
+- 👨‍💻 My Portfolio [https://naveenvinayaks.github.io/portfolio_NaveenVinayak/]([https://flowcv.me/naveen-vinayak-s](https://naveenvinayaks.github.io/portfolio_NaveenVinayak/))
 
 - 👨‍💻 My CV [https://naveenvinayaks.github.io/naveenvinayak.github.io/](https://naveenvinayaks.github.io/naveenvinayak.github.io/)
 
