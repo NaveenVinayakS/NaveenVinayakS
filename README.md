@@ -10,6 +10,7 @@
 * Machine Learning.
 * Computer vision .
 * Natural Language Processing .
+* LLMs
 
 - 👨‍💻 My Portfolio [https://flowcv.me/naveen-vinayak-s](https://flowcv.me/naveen-vinayak-s)
 
